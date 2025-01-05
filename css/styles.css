@@ -1,0 +1,136 @@
+body {
+font-family: 'Roboto', sans-serif;
+color: #2e2f42;
+background-color: #ffffff;
+}
+
+ul {  
+list-style-type: none;
+}
+
+h2 {
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.02em;
+}
+
+h3{
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+p{
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.header-logo {
+font-family: Raleway;
+color: #2e2f42;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.2;
+letter-spacing: 0.03em;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.header-logo-span {
+color: #4d5ae5;
+}
+
+.header-nav-list-item {
+color: #2e2f42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.6;
+letter-spacing: 0.02em;
+text-decoration: none;
+}
+
+.header-nav-list-item:hover,
+.header-nav-list-item:focus {
+color: #404bbf;
+}
+
+.header-adress-list-item {
+color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-decoration: none;
+}
+
+.header-adress-list-item:hover,
+.header-adress-list-item:focus {
+color: #404bbf;
+}
+
+.solutions {
+background: #2E2F42;
+}
+
+.solutions-title {
+color: #ffffff;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.02em;
+}
+
+.solutions-button {
+width: Hug (169px)px;
+height: Hug (56px)px;
+top: 428px;
+left: 636px;
+padding: 16px 32px 16px 32px;
+gap: 10px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+background: #4d5ae5;
+color: #ffffff;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer;
+}
+
+.solutions-button:hover,
+.solutions-button:focus {
+background: #404bbf;
+}
+
+.team {
+background: #f4f4fd;
+}
+
+.footer {
+background: #2E2F42;
+}
+
+.footer-logo {
+font-family: Raleway;
+color: #f4f4fd;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.2;
+letter-spacing: 0.03em;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.footer-logo-span {
+color: #4d5ae5;
+}
+
+.footer-descr {
+color: #f4f4fd;
+}
